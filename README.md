@@ -1,4 +1,4 @@
-# ALU-design-cse-210-
+# ALU-design-cse-210
 This repository contains my Level-2 Term-2 project for the sessional course CSE-210. The goal of this project is to design and implement an Arithmetic Logic Unit (ALU) that performs essential arithmetic and logic functions using a minimal number of integrated circuits (ICs).
 
 Project Overview:
